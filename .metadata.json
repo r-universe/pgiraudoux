@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "pgirmess",
+    "oncran": true
+  }
+]
