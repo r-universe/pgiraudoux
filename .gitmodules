@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pgirmess"]
 	path = pgirmess
 	url = https://github.com/pgiraudoux/pgirmess
-	shallow = true
 	subdir = pgirmess
-	registered = true
